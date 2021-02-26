@@ -1,7 +1,29 @@
 #EXTM3U
 #EXTINF:-1 ,2M HD
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8
-#EXTINF:-1 ,al_aoula_inter
+#EXTINF:-1 ,al_aoula_inter HD
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
-#EXTINF:-1 ,al_maghribia_snrt
+#EXTINF:-1 ,al_maghribia_snrt HD
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 ,MBC 5 HD
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 ,MBC 3 HD
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
+#EXTINF:-1 ,Majid TV HD
+https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1 ,NAT Geo Abu Dhabi HD
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 ,MBC Bollywood HD
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 Assadissa
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 ,M24 TV HD 
+http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1 ,Medi 1 TV Arabic
+https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8
+#EXTINF:-1 ,Echorouk News
+http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
+#EXTINF:-1 ,Echorouk TV
+http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukTV/playlist.m3u8
+#EXTINF:-1 ,Ennahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
