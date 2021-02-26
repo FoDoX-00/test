@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 ,Assadissa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
 #EXTINF:-1 ,2M HD
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde_snrt/hls_snrt/index.m3u8
 #EXTINF:-1 ,al_aoula_inter HD
@@ -21,7 +23,7 @@ http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
 #EXTINF:-1 ,Medi 1 TV Arabic
 https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
-#EXTINF:-1 ,Télé Maroc (1080p)
+#EXTINF:-1 ,Télé Maroc HD
 https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 #EXTINF:-1 ,Echorouk News
 http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
