@@ -20,7 +20,9 @@ http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
 #EXTINF:-1 ,M24 TV HD 
 http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
 #EXTINF:-1 ,Medi 1 TV Arabic
-https://streaming.medi1tv.com/live/Medi1tvArabia.sdp/playlist.m3u8
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1ar.smil/playlist.m3u8
+#EXTINF:-1 ,Télé Maroc (1080p)
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 #EXTINF:-1 ,Echorouk News
 http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
 #EXTINF:-1 ,Echorouk TV
