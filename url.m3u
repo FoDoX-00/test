@@ -31,3 +31,9 @@ http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
 http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukTV/playlist.m3u8
 #EXTINF:-1 ,Ennahar TV
 http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
+#EXTINF:-1 ,TV Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
+#EXTINF:-1 ,24 Horas HD
+https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8
+#EXTINF:-1 ,Clan HD
+https://rtvelivestream.akamaized.net/clan_1080.m3u8
