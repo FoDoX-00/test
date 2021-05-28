@@ -36,7 +36,7 @@ http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
 #EXTINF:-1 ,TV Murcia
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8
 #EXTINF:-1 ,24 Horas HD
-https://rtvelivestream.akamaized.net/GL8/3_v_5_2021_05_28_16_20_56.ts
+https://rtvelivestream.akamaized.net/24h_dvr_2750.m3u8
 #EXTINF:-1 ,Clan HD
 https://rtvelivestream.akamaized.net/clan_main_dvr_360.m3u8
 #EXTINF:-1 ,Canal TV3
